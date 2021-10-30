@@ -1,1 +1,2 @@
-
+Devops course has two exams, two assignments, Lab Exercises and Lecture Quizzes in this semester.
+We use github and travis for this course.
