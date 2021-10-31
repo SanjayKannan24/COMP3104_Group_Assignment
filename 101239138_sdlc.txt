@@ -1,0 +1,1 @@
+Learning SOftware Development Lifecycle is an important part in engineering life.  It teaches how to effectively build complex applications in teams and building them, deploying them and managing them.  It also shows us the life cycle of a software project.
