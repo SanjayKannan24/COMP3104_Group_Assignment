@@ -1,1 +1,2 @@
-Devolpmental operations
+Devolpmental operations is the full form of devOps
+This team cut down the time required to finsh a project and its maintanace.
