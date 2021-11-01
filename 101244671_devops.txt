@@ -1,1 +1,0 @@
-Devops is a semester 5 course. We are using git bash.
